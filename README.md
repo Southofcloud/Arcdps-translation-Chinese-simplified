@@ -1,6 +1,3 @@
 # Arcdps-translation-Chinese-simplified
 Arcdps translation(Chinese-simplified)
-1
-2
-3
-4565
+1234567890
