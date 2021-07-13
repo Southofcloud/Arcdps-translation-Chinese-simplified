@@ -1,3 +1,5 @@
 # Arcdps-translation-Chinese-simplified
 Arcdps translation(Chinese-simplified)
-1234567890
+## 1
+## 2
+## 3
